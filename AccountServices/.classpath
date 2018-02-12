@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_151">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/antlr_2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/apache-collections-commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/hibernate-commons-annotations-4.0.3.final.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/hibernate-core-4.2.4.final.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/hibernate-entitymanager-4.2.3.final.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/hibernate-jpa-2.0-api-1.0.1.final.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/javaee.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jboss-as-tomcat-5.0.0.ga-jboss-faces.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jboss-logging-3.1.0.ga.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jsf-api.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jstl.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/junit.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/servlet.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/servletapi-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/standard.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/toplink-essentials.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/toplink-essentials-agent.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Connectors(Eclipse)/JAR for JSF/javassist.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
